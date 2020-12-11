@@ -1,0 +1,18 @@
+﻿  main.cpp
+D:\VisualStudio\GameContraEnd\GameContraEnd\CommonFunc.h(42,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\VisualStudio\GameContraEnd\GameContraEnd\CommonFunc.h(55,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(83,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(86,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(87,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(104,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(147,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(200,21): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(212,25): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(254,21): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(257,23): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(274,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(275,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(321,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(328,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio\GameContraEnd\GameContraEnd\main.cpp(342,20): warning C4018: '<': signed/unsigned mismatch
+  GameContraEnd.vcxproj -> D:\VisualStudio\GameContraEnd\Debug\GameContraEnd.exe
